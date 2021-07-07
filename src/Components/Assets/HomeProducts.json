@@ -1,7 +1,375 @@
- [
+{
+
+"products": [
+    {
+        "category" : "SmartPhones All",
+        "name": "Realme 2",
+        "price": 9999,
+        "color":["Blue","Black","Red"],
+        "id" : 0,
+        "img_src": "/Images/jason-leem-50bzI1F6urA-unsplash.jpg",
+        "in_cart": false,
+        "filtered": true,
+        "amount": 1
+    },
+    {
+        "category" : "SmartPhones All",
+        "name": "Realme C2",
+        "price": 7999,
+        "color":["Blue","Black"],
+        "id" : 1,
+        "img_src": "/Images/anders-jilden-tcEGBIHm_6E-unsplash.jpg",
+        "in_cart": false,
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category": "SmartPhones All",
+        "name": "Redmi 5A",
+        "price": 6999,
+        "color":["Gold","RoseGold","White"],
+        "id" : 2,
+        "img_src": "/Images/andy-fitzsimon-Ovjx9FsXX9c-unsplash.jpg",
+        "in_cart": false,
+        "filtered": true,        
+        "amount": 1
+    },
+    {
+        "category" : "SmartPhones All",
+        "name": "Redmi Note4",
+        "price": 7999,
+        "color":["Gold","Black","RoseGold","White"],
+        "id" : 3,
+        "img_src": "/Images/chris-lawton-5IHz5WhosQE-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category" : "Men-Wear All",
+        "name": "Ethnic Kurta",
+        "price": 499,
+        "color":["Blue","Violet","Red"],
+        "id" : 4,
+        "img_src": "/Images/clark-young-ueZXMrZFFKQ-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category" : "Men-Wear All",
+        "name": "Jeans",
+        "price": 899,
+        "color":["Blue","Black"],
+        "id" : 5,
+        "img_src": "/Images/david-vig-qwHHOC2z5Xs-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category" : "Men-Wear All",
+        "name": "Shirt",
+        "price": 299,
+        "color":["Blue","Black","yellow","red","pink"],
+        "id" : 6,
+        "img_src": "/Images/florian-van-duyn-Dm-qxdynoEc-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category" : "Men-wear All",
+        "name": "Shoes",
+        "price": 999,
+        "color":["Brown","Black"],
+        "id" : 7,
+        "img_src": "/Images/greg-rakozy-P7w9VrUo9vU-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category" : "Men-Wear All",
+        "name": "Sandlas",
+        "price": 499,
+        "color":["Black"],
+        "id" : 8,
+        "img_src": "/Images/harley-davidson-zGzXsJUBQfs-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category" : "Accesseries All",
+        "name": "Watch",
+        "price": 999,
+        "color":["Blue","Black","White"],
+        "id" : 9,
+        "img_src": "/Images/irina-iriser-mNz9Pa3tz34-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category" : "Accesseries All",
+        "name": "Gold-Necklace",
+        "price": 9999,
+        "color":["Gold"],
+        "id" : 10,
+        "img_src": "/Images/aleksandr-ledogorov-G-JJy-Yv_dA-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    },
+    {
+        "category" : "Men-Wear All",
+        "name" : "Leather-Jacket",
+        "price": 4999,
+        "color": ["Crimson-red","Dangling-Yellow"],
+        "id" : 11,
+        "img_src": "/Images/ivan-mani-QdwR5aRGkbs-unsplash.jpg",
+        "in_cart": false, 
+        "filtered": true,
+        "amount": 1
+
+    }
+],
+"Reviews":[
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [ 
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ],
+        [
+            {
+                "name": "John doe",
+                "review": "Bad quality! don't buy it. Waste of money",
+                "date": "18-11-2002",
+                "rating":2
+            },
+            {
+                "name": "Jane doe",
+                "review": "Nice! #Satisfied",
+                "date": "23-4-1994",
+                "rating": 5
+            },
+            {
+                "name" : "Grandpa max",
+                "review" : "This is not a real omintrix!",
+                "date": "1-1-1994",
+                "rating": 1
+            }
+        ]
+    ],
+"MainData": [
     {
         "category" : "Trees All",
-        "name": "are covered green leaf plants",
+        "name": "green leaf plants",
         "price": 5,
         "photographer": "Chris Abney",
         "color":["Trees","forest","jungle"],
@@ -318,3 +686,4 @@
 
     }
 ]
+}
